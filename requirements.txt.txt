@@ -1,3 +1,0 @@
-!pip install numpy pandas
-!pip install opencv-python
-!pip install tensorflow scikit-learn matplotlib
