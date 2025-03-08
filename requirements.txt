@@ -1,1 +1,2 @@
 pip install kaggle tensorflow numpy pandas opencv-python scikit-learn matplotlib seaborn
+pip install opencv-python
